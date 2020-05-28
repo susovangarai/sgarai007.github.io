@@ -1,0 +1,39 @@
+<span id="a">Susovan@kali</span>:<span id="b">~</span><span id="c">$</span> whoami
+Susovan Garai
+<span id="a">Susovan@kali</span>:<span id="b">~</span><span id="c">$</span> cd Profiles/About_Us
+<span id="a">Susovan@kali</span>:<span id="b">~</span><span id="c">$</span> cat susovan_garai.txt<br>
+
+<pre><br>
+		"<span id="k">I think computer virus should count as life.
+	 	 I think says somthing about human nature
+	 	 that the only from of life we have created something
+	 	 far is purely destructive.</span>" - Stephen Hawking
+</pre>
+
+<pre> "<span id="k">Hunters hunt in the woods but bug hunters hunt throughout the internet.</span>"
+									- Me
+</pre>
+<p>
+Hey geeks, 
+Me,Susovan Garai, a CyberSecurity 3rd year student of <b>The Neotia University</b> and bug 
+hunter. I am good at verious security tools like Burp,Nmap,Nikto,Wireshark,Nessus etc. 
+Also I have expirience of using linux os and operate different types of troubleshooting. 
+I have keen interest in CTF playing and I am very enthusiast to learn new things.</p>
+<p>My social media links are here: <br></p> 
+<pre>
+<a href="https://www.linkedin.com/in/sgarai701">	Linkedin</a> <br> 
+<a href="https://www.github.com/susovangarai">	Github</a>, <br> 
+<a href="https://www.hackerone.com/sgarai">	Hackerone</a> and <br>
+<a href="https://www.bugcrowd.com/sgarai701">	Bugcrowd</a>.</p><br>
+
+Feel free to send me an email at<a href="mailto:Sgarai701@gmail.com?subject=Blog Feedback:"> Email</a>.
+
+Thank you,
+
+
+You want to proceed further to know about me :</pre>
+
+
+<pre><a href="profile"> 		Accept.</a><a href="Thank you"> 		Reject.</a></pre>
+
+<span id="a">Susovan@kali</span>:<span id="b">~</span><span id="c">$</span>
